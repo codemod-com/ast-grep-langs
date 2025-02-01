@@ -4,7 +4,7 @@ const languageRegistration = require('./index')
 setup({
   dirname: __dirname,
   name: 'angular',
-  treeSitterPackage: 'tree-sitter-angular',
+  treeSitterPackage: '@codemod.com/tree-sitter-angular',
   languageRegistration,
   testRunner: (parse) => {
     const a = parse('<div></div>')
