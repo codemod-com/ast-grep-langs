@@ -25,8 +25,8 @@ importers:
         specifier: 0.0.2
         version: 0.0.2
       '@codemod.com/tree-sitter-angular':
-        specifier: 0.5.6
-        version: 0.5.6(tree-sitter@0.21.1)
+        specifier: 0.6.0
+        version: 0.6.0(tree-sitter@0.21.1)
       tree-sitter-cli:
         specifier: 0.24.6
         version: 0.24.6
@@ -294,8 +294,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@codemod.com/tree-sitter-angular@0.5.6':
-    resolution: {integrity: sha512-IkN0yXJvf7+hW1axfcdbzi10fg1I+ByE5JvyfRparUawM34AtJbi38WC4Kk+56mNwyoRfSBWe6qOdsyrTu5Dqg==}
+  '@codemod.com/tree-sitter-angular@0.6.0':
+    resolution: {integrity: sha512-wWXDhGUkbE0gA5Pz9qmlZCLDOxxVP30eI4egfaL1YwoVam1msehR03aLxOJT7VEswUuxiLxAlLyONxcpja7qxg==}
     peerDependencies:
       tree-sitter: ^0.21.1
       tree_sitter: '*'
@@ -507,7 +507,7 @@ snapshots:
   '@biomejs/cli-win32-x64@1.9.4':
     optional: true
 
-  '@codemod.com/tree-sitter-angular@0.5.6(tree-sitter@0.21.1)':
+  '@codemod.com/tree-sitter-angular@0.6.0(tree-sitter@0.21.1)':
     dependencies:
       node-addon-api: 8.3.0
       node-gyp-build: 4.8.4
