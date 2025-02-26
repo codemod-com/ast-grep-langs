@@ -1,6 +1,6 @@
 {
   "name": "@codemod.com/ast-grep-lang-angular",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@ast-grep/nursery": "0.0.2",
-    "@codemod.com/tree-sitter-angular": "0.6.2",
+    "@codemod.com/tree-sitter-angular": "0.6.3",
     "tree-sitter-cli": "0.24.6"
   },
   "publishConfig": {
